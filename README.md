@@ -7,6 +7,6 @@ O projeto foi criado durante o Workshop do {Reprograma} da turma de Front-end, o
 Para a criação desse site foram utilizadas a linguagem de marcação (HTML) e o mecanismo de estilo (CSS) pelo editor de código-fonte Visual Studio Code. Com essa oficina, foi possível aprender diversos conceitos relacionados ao HTML e o CSS. Além de ganhar conhecimentos, construímos o portfólio que irá complementar um pouco da minha história profissional.
 
 Confira o visual do site construído:
-![Meu site]blob:https://web.whatsapp.com/90c25398-dbf1-4015-9406-e7aea3819bdd
+![Meu site]https://web.whatsapp.com/90c25398-dbf1-4015-9406-e7aea3819bdd
 
 Para conferir o site construído através desse projeto, <a href="https://primeiro-site-bruna-souza.netlify.app/" target='blank'>clique aqui </a> .  
